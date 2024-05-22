@@ -1,0 +1,19 @@
+site_name: Welcome to PyPDFForm - PyPDFForm Documentation
+repo_url: https://github.com/chinapandaman/PyPDFForm
+nav:
+  - 'User Guide':
+    - install.md
+    - coordinate.md
+    - prepare.md
+    - inspect.md
+    - fill.md
+    - simple_fill.md
+    - style.md
+    - button_style.md
+    - draw.md
+    - utils.md
+theme:
+  name: readthedocs
+  logo: img/logo.png
+extra:
+  version: v1.4.25
